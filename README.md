@@ -9,13 +9,13 @@
 
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
+1.  **Create a Gatsby X TailwindCSS site.**
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+    Use the Gatsby CLI to create a new site, specifying this minimal starter.
 
     ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
+    # create a new Gatsby X TailwindCSS site using this minimal starter
+    gatsby new my-gatsby-site https://github.com/JaideepGuntupalli/gatsby-tailwindcss-starter-template.git
     ```
 
 2.  **Start developing.**
@@ -24,7 +24,7 @@
 
     ```shell
     cd my-gatsby-site/
-    npm run develop
+    gatsby develop
     ```
 
 3.  **Open the code and start customizing!**
@@ -46,9 +46,3 @@
     -   [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
     -   [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
