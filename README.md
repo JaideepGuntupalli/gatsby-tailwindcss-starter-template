@@ -1,8 +1,7 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
+<!-- <p float="left" align="middle">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
+    <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-dark.svg" alt="Tailwind CSS" width="350">
+</p> -->
 <h1 align="center">
   Gatsby X TailwindCSS minimal starter
 </h1>
